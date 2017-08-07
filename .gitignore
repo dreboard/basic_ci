@@ -1,0 +1,9 @@
+/vendor/
+/.vagrant/
+/docs/
+/.idea
+/.settings
+/logs
+*.txt
+/.git/
+/ubuntu-xenial-16.04-cloudimg-console.log

@@ -1,0 +1,4 @@
+actor: Test1Tester
+modules:
+    enabled:
+        - \Helper\Test1
